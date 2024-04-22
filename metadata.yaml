@@ -1,11 +1,16 @@
 _repo: Beginners-zoology_73338
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73338-h/images/cover.jpg
 creator:
   author:
     agent_name: Coleman, Walter M.
     gutenberg_agent_id: '57038'
     url: http://www.gutenberg.org/2009/agents/57038
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73338#Beginners-zoology
 gutenberg_issued: '2024-04-05'
 gutenberg_type: Text
 identifiers:
